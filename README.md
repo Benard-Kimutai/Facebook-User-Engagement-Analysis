@@ -4,11 +4,15 @@
 
 In this project, I analyzed user engagement metrics from a dataset of Facebook users to understand various patterns and trends. The main objectives were to:
 
+![facebook](https://github.com/user-attachments/assets/e29ba8c5-fc4b-489a-8ef4-39c290bab0b4)
+
+
 ### 1. Comprehensively Overview User Engagement Metrics
 
 - Calculate average likes, friend counts, and friendships initiated across users.
 - Assess how these metrics are distributed based on gender.
 - Examine engagement patterns by the device used (mobile vs. web).
+- Visualize using power BI
 
 ### 2. Identify Top-Performing Users
 
